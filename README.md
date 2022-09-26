@@ -17,14 +17,14 @@ pip3 install aort
 
 If you want to install it from source:
 ```sh
-git clone https://github.com/D3Ext/AORT
+git clone https://github.com/trhacknon/AORT
 cd AORT
 pip3 install -r requirements.txt
 ```
 
 > One-liner
 ```sh
-git clone https://github.com/D3Ext/AORT && cd AORT && pip3 install -r requirements.txt && python3 AORT.py
+git clone https://github.com/trhacknon/AORT && cd AORT && pip3 install -r requirements.txt && python3 AORT.py
 ```
 
 ## Usage:
@@ -81,7 +81,7 @@ python3 AORT.py -d domain.com --all
 ## Demo:
 
 > Simple query to find valid subdomains
-<img src="https://raw.githubusercontent.com/D3Ext/AORT/main/demo.png">
+<img src="https://raw.githubusercontent.com/trhacknon/AORT/main/demo.png">
 
 ## Third part
 
