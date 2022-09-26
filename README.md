@@ -81,7 +81,7 @@ python3 AORT.py -d domain.com --all
 ## Demo:
 
 > Simple query to find valid subdomains
-<img src="https://raw.githubusercontent.com/trhacknon/AORT/main/demo.png">
+<img src="https://github.com/trhacknon/AORT/blob/main/Screenshot_2022-09-26-09-13-04-318_com.termux.jpg">
 
 ## Third part
 
