@@ -87,7 +87,7 @@ python3 AORT.py -d domain.com --all
 
 The tool uses different services to get subdomains in different ways
 
-The WAF detector was modified and addapted from [CRLFSuite](https://github.com/Nefcore/CRLFsuite) concept
+The WAF detector was modified and addapted from [CRLFSuite](https://github.com/trhacknon/CRLFsuite) concept
 
 All DNS queries are scripted in python at 100%
 
